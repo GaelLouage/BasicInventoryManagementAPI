@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "keyboard",
+    "quantity": 12,
+    "price": 49.99
+  },
+  {
+    "id": 2,
+    "name": "mouse",
+    "quantity": 4,
+    "price": 19.99
+  },
+  {
+    "id": 3,
+    "name": "monitor",
+    "quantity": 2,
+    "price": 129.99
+  },
+  {
+    "id": 4,
+    "name": "webcam",
+    "quantity": 7,
+    "price": 39.99
+  },
+  {
+    "id": 5,
+    "name": "headphones",
+    "quantity": 15,
+    "price": 59.99
+  },
+  {
+    "id": 6,
+    "name": "laptop",
+    "quantity": 3,
+    "price": 899.99
+  },
+  {
+    "id": 7,
+    "name": "usb cable",
+    "quantity": 30,
+    "price": 5.49
+  },
+  {
+    "id": 8,
+    "name": "external hard drive",
+    "quantity": 6,
+    "price": 79.99
+  },
+  {
+    "id": 9,
+    "name": "mouse pad",
+    "quantity": 20,
+    "price": 9.99
+  },
+  {
+    "id": 10,
+    "name": "printer",
+    "quantity": 2,
+    "price": 149.99
+  },
+  {
+    "id": 11,
+    "name": "GaelProduct",
+    "quantity": 80,
+    "price": 55.99
+  },
+  {
+    "id": 12,
+    "name": "test",
+    "quantity": 10,
+    "price": 15.5
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3WDqbghxMqwUcuJKU543xnqep3iEImVShfK19lxocTY=",
+  "Source": "BasicInventoryManagementAPI",
+  "BasePath": "_content/BasicInventoryManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
